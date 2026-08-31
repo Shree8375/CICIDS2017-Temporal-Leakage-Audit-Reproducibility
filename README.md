@@ -1,6 +1,5 @@
 # CIC-IDS 2017 Temporal Leakage Audit — Reproducibility Repository
 
-Code, notebooks, and result files for the paper *"Temporal Leakage Bias in CIC-IDS 2017: A Multi-Model Evaluation Audit and Corrective Protocol"* (under review).
 
 ## What this repo contains
 
